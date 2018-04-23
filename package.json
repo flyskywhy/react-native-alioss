@@ -1,23 +1,19 @@
 {
-  "author": {
-    "name": "yuzhiyi"
-  },
-  "dependencies": {},
-  "description": "upload file to aliyun oss",
-  "devDependencies": {},
-  "homepage": "https://github.com/SpadeGod/react-native-aliyun-oss#readme",
-  "keywords": [
-    "aliyun",
-    "oss"
-  ],
-  "license": "MIT",
-  "main": "index.js",
   "name": "react-native-alioss",
-  "optionalDependencies": {},
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/SpadeGod/react-native-aliyun-oss"
+  "version": "1.0.0",
+  "description": "Ali OSS SDk for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
   },
-  "version": "1.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.sys-in.com.cn:github/yuzhiyi/react-native-aliyun-oss.git"
+  },
+  "keywords": [
+    "AliOSS",
+    "React-Native"
+  ],
+  "author": "yuzhiyi",
+  "license": "MIT"
 }
