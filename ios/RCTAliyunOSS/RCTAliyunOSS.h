@@ -14,7 +14,7 @@
   #import "RCTBridgeModule.h"
 #endif
 
-#import "RCTEventEmitter.h"
+#import <React/RCTEventEmitter.h>
 
 @interface RCTAliyunOSS : RCTEventEmitter <RCTBridgeModule>
 
