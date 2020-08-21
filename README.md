@@ -9,8 +9,18 @@ Manipulate files in Aliyun OSS bucket.
 
 ## Install
 
+
+For RN >= 0.60
 ```shell
 npm i --save @flyskywhy/react-native-alioss
+cd ios
+pod install
+```
+
+For RN < 0.60
+```
+npm install @flyskywhy/react-native-alioss@1.0.x --save
+react-native link @flyskywhy/react-native-alioss
 ```
 
 ## Usage
