@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.static_framework   = true
 
   s.dependency 'React'
-  s.dependency "AliyunOSSiOS", "~> 2.10.7"
+  s.dependency "AliyunOSSiOS", "2.10.14"
 end
