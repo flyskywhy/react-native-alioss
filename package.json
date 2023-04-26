@@ -1,6 +1,6 @@
 {
   "name": "@flyskywhy/react-native-alioss",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Manipulate files in Aliyun OSS bucket",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,13 @@
     "react-native"
   ],
   "author": "yuzhiyi",
+  "contributors": [
+    {
+      "name": "Li Zheng",
+      "email": "flyskywhy@gmail.com",
+      "url": "https://github.com/flyskywhy"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/flyskywhy/react-native-alioss/issues"
